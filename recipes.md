@@ -50,15 +50,15 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
-- 1 pound spaghetti
-- 1 pound ground beef
-- 1/2 cup bread crumbs
-- 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
-- 1 egg
-- 2 cloves garlic, minced
+- 2 pound spaghetti
+- 122 pound ground beef
+- 122/2 cup bread crumbs
+- 122/4 cup milk
+- 12/4 cup grated Parmesan cheese
+- 122 egg
+- 22 cloves garlic, minced
 - Salt and pepper to taste
-- 1 jar (24 oz) spaghetti sauce
+- 12 jar (24 oz) spaghetti sauce
 
 Instructions:
 1. Cook spaghetti according to package instructions.
