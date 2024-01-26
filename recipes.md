@@ -50,15 +50,15 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
-- 1 pound spaghetti
-- 1 pound ground beef
-- 1/2 cup bread crumbs
-- 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
-- 1 egg
-- 2 cloves garlic, minced
+- 2 pound spaghetti
+- 122 pound ground beef
+- 122/2 cup bread crumbs
+- 122/4 cup milk
+- 12/4 cup grated Parmesan cheese
+- 122 egg
+- 22 cloves garlic, minced
 - Salt and pepper to taste
-- 1 jar (24 oz) spaghetti sauce
+- 12 jar (24 oz) spaghetti sauce
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -80,6 +80,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- 4 cucumbers
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -93,15 +94,15 @@ Instructions:
 ### Chocolate Chip Cookies
 
 Ingredients:
-- 1 1/4 cups all-purpose flour
-- 1222 tsp baking soda
-- 1223 tsp salt
-- 143  cup unsalted butter, softened
-- 3/4 cup white sugar
-- 3/4 cup brown sugar
-- 2231 eggs
-- 2323 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 1 1/43 cups all-purpose flour
+- 3 tsp baking soda
+- 13 tsp salt
+- 3  cup unsalted butter, softened
+- 3/4223 cup white sugar
+- 3 cup brown sugar
+- 3 eggs
+- 3 tsp vanilla extract
+- 23 cups semisweet chocolate chips
 
 ### CUSTARD
 
