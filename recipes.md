@@ -93,15 +93,15 @@ Instructions:
 ### Chocolate Chip Cookies
 
 Ingredients:
-- 1 1/4 cups all-purpose flour
-- 1222 tsp baking soda
-- 1223 tsp salt
-- 143  cup unsalted butter, softened
-- 3/4 cup white sugar
-- 3/4 cup brown sugar
-- 2231 eggs
-- 2323 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 1 1/43 cups all-purpose flour
+- 3 tsp baking soda
+- 13 tsp salt
+- 3  cup unsalted butter, softened
+- 3/4223 cup white sugar
+- 3 cup brown sugar
+- 3 eggs
+- 3 tsp vanilla extract
+- 23 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
